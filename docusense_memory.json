@@ -1,0 +1,917 @@
+[
+  {
+    "timestamp": "2026-04-20 16:43:57",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 695 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-20 16:45:22",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 695 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-20 16:45:26",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 695 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-20 17:55:16",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 695 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-20 18:02:17",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 695 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-20 18:02:36",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 695 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-20 18:02:37",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 695 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-20 18:05:20",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 695 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-20 18:20:56",
+    "filename": "CS_Resume.pdf",
+    "doc_type": "\ud83d\udcc4 Resume",
+    "key_points": [
+      "Email: rufidarumana3@gmail.com",
+      "Phone: +918792213745",
+      "Technical Skills: to enhance customer satisfaction.",
+      "Latest Experience: RecruitEase - A University Job Portal",
+      "Education: Ballari Institute of Technology and Management, Ballari",
+      "GPA: 8.49"
+    ],
+    "flags": [
+      "\ud83d\udfe1 Warning: Candidate name could not be auto-detected."
+    ]
+  },
+  {
+    "timestamp": "2026-04-20 19:18:56",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 695 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-20 19:19:52",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 695 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 10:01:02",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 696 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 10:01:11",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 696 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 10:01:15",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 696 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 10:09:10",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 696 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 10:09:35",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 696 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 10:13:05",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 696 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 10:28:08",
+    "filename": "complaint_sample.pdf",
+    "doc_type": "\u26a0\ufe0f Complaint",
+    "key_points": [
+      "Subject: Complaint regarding poor service",
+      "Core Issue: Complaint Letter"
+    ],
+    "flags": [
+      "\ud83d\udfe2 OK: All validation checks passed. Document looks complete."
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 10:28:42",
+    "filename": "complaint_sample.pdf",
+    "doc_type": "\u26a0\ufe0f Complaint",
+    "key_points": [
+      "Subject: Complaint regarding poor service",
+      "Core Issue: Complaint Letter"
+    ],
+    "flags": [
+      "\ud83d\udfe2 OK: All validation checks passed. Document looks complete."
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 10:30:05",
+    "filename": "complaint_sample.pdf",
+    "doc_type": "\u26a0\ufe0f Complaint",
+    "key_points": [
+      "Subject: Complaint regarding poor service",
+      "Core Issue: Complaint Letter"
+    ],
+    "flags": [
+      "\ud83d\udfe2 OK: All validation checks passed. Document looks complete."
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 10:50:32",
+    "filename": "complaint_sample.pdf",
+    "doc_type": "\u26a0\ufe0f Complaint",
+    "key_points": [
+      "Subject: Complaint regarding poor service",
+      "Core Issue: Complaint Letter"
+    ],
+    "flags": [
+      "\ud83d\udfe2 OK: All validation checks passed. Document looks complete."
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 10:51:43",
+    "filename": "complaint_sample.pdf",
+    "doc_type": "\u26a0\ufe0f Complaint",
+    "key_points": [
+      "Subject: Complaint regarding poor service",
+      "Core Issue: Complaint Letter"
+    ],
+    "flags": [
+      "\ud83d\udfe2 OK: All validation checks passed. Document looks complete."
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 10:53:11",
+    "filename": "complaint_sample.pdf",
+    "doc_type": "\u26a0\ufe0f Complaint",
+    "key_points": [
+      "Subject: Complaint regarding poor service",
+      "Core Issue: Complaint Letter"
+    ],
+    "flags": [
+      "\ud83d\udfe2 OK: All validation checks passed. Document looks complete."
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 12:00:13",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 696 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 12:01:18",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 696 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 12:04:25",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 696 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 12:07:28",
+    "filename": "complaint_sample.pdf",
+    "doc_type": "\u26a0\ufe0f Complaint",
+    "key_points": [
+      "Subject: Complaint regarding poor service",
+      "Core Issue: Complaint Letter"
+    ],
+    "flags": [
+      "\ud83d\udfe2 OK: All validation checks passed. Document looks complete."
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 12:14:12",
+    "filename": "updated_resume.pdf",
+    "doc_type": "\ud83d\udcc4 Resume",
+    "key_points": [
+      "Email: rufidarumana3@gmail.com",
+      "Phone: +918792213745",
+      "Technical Skills: to build data-driven solutions using Python, SQL, and AI/ML, while continuously learning and",
+      "Latest Experience: RecruitEase - A University Job Portal",
+      "Education: Ballari Institute of Technology and Management, Ballari",
+      "GPA: 8.57"
+    ],
+    "flags": [
+      "\ud83d\udfe1 Warning: Candidate name could not be auto-detected."
+    ]
+  },
+  {
+    "timestamp": "2026-04-22 11:16:31",
+    "filename": "CS_Resume.pdf",
+    "doc_type": "\ud83d\udcc4 Resume",
+    "key_points": [
+      "Email: rufidarumana3@gmail.com",
+      "Phone: +918792213745",
+      "Technical Skills: to enhance customer satisfaction.",
+      "Latest Experience: RecruitEase - A University Job Portal",
+      "Education: Ballari Institute of Technology and Management, Ballari",
+      "GPA: 8.49"
+    ],
+    "flags": [
+      "\ud83d\udfe1 Warning: Candidate name could not be auto-detected."
+    ]
+  },
+  {
+    "timestamp": "2026-04-22 11:19:30",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 697 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-22 11:24:42",
+    "filename": "complaint_sample.pdf",
+    "doc_type": "\u26a0\ufe0f Complaint",
+    "key_points": [
+      "Subject: Complaint regarding poor service",
+      "Core Issue: Complaint Letter"
+    ],
+    "flags": [
+      "\ud83d\udfe2 OK: All validation checks passed. Document looks complete."
+    ]
+  },
+  {
+    "timestamp": "2026-04-22 11:33:34",
+    "filename": "complaint_sample.pdf",
+    "doc_type": "\u26a0\ufe0f Complaint",
+    "key_points": [
+      "Subject: Complaint regarding poor service",
+      "Core Issue: Complaint Letter"
+    ],
+    "flags": [
+      "\ud83d\udfe2 OK: All validation checks passed. Document looks complete."
+    ]
+  },
+  {
+    "timestamp": "2026-04-22 11:35:00",
+    "filename": "complaint_sample.pdf",
+    "doc_type": "\u26a0\ufe0f Complaint",
+    "key_points": [
+      "Subject: Complaint regarding poor service",
+      "Core Issue: Complaint Letter"
+    ],
+    "flags": [
+      "\ud83d\udfe2 OK: All validation checks passed. Document looks complete."
+    ]
+  },
+  {
+    "timestamp": "2026-04-22 11:53:50",
+    "filename": "updated_resume.docx",
+    "doc_type": "\ud83d\udcc4 Resume",
+    "key_points": [
+      "Email: rufidarumana3@gmail.com",
+      "Phone: +918792213745",
+      "Technical Skills: to build data-driven solutions using Python, SQL, and AI/ML, while continuously learning and contributing to innovative",
+      "Latest Experience: RecruitEase - A University Job Portal",
+      "Education: Ballari Institute of Technology and Management, Ballari BE in Artificial Intelligence and Machine Learning Current CGPA: 8.57 (as of 6th Sem)",
+      "GPA: 8.57"
+    ],
+    "flags": [
+      "\ud83d\udfe1 Warning: Candidate name could not be auto-detected."
+    ]
+  },
+  {
+    "timestamp": "2026-04-22 11:58:30",
+    "filename": "updated_resume.docx",
+    "doc_type": "\ud83d\udcc4 Resume",
+    "key_points": [
+      "Email: rufidarumana3@gmail.com",
+      "Phone: +918792213745",
+      "Technical Skills: to build data-driven solutions using Python, SQL, and AI/ML, while continuously learning and contributing to innovative",
+      "Latest Experience: RecruitEase - A University Job Portal",
+      "Education: Ballari Institute of Technology and Management, Ballari BE in Artificial Intelligence and Machine Learning Current CGPA: 8.57 (as of 6th Sem)",
+      "GPA: 8.57"
+    ],
+    "flags": [
+      "\ud83d\udfe1 Warning: Candidate name could not be auto-detected."
+    ]
+  },
+  {
+    "timestamp": "2026-04-22 17:15:34",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 697 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-22 17:17:52",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 697 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-22 17:22:31",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 697 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-22 17:29:38",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 697 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-22 21:17:37",
+    "filename": "complaint_sample.pdf",
+    "doc_type": "\u26a0\ufe0f Complaint",
+    "key_points": [
+      "Subject: Complaint regarding poor service",
+      "Core Issue: Complaint Letter"
+    ],
+    "flags": [
+      "\ud83d\udfe2 OK: All validation checks passed. Document looks complete."
+    ]
+  },
+  {
+    "timestamp": "2026-04-22 21:22:40",
+    "filename": "bad_resume.pdf",
+    "doc_type": "\ud83d\udcc4 Resume",
+    "key_points": [
+      "Candidate Name: Rahul Sharma",
+      "Email: rahul@gmail.com",
+      "Education: Experience: Fresher"
+    ],
+    "flags": [
+      "\ud83d\udfe1 Warning: Resume missing: Technical Skills",
+      "\ud83d\udfe1 Warning: Resume is very short \u2014 may be incomplete."
+    ]
+  },
+  {
+    "timestamp": "2026-04-22 21:25:10",
+    "filename": "sample_resume.pdf",
+    "doc_type": "\ud83d\udcc4 Resume",
+    "key_points": [
+      "Email: rumana@example.com",
+      "Phone: +91 9876543210",
+      "Technical Skills: Python, SQL, Machine Learning",
+      "Latest Experience: Internship at TechCorp",
+      "Education: B.E in AI & ML, CGPA: 8.5",
+      "GPA: 8.5"
+    ],
+    "flags": [
+      "\ud83d\udfe1 Warning: Candidate name could not be auto-detected.",
+      "\ud83d\udfe1 Warning: Resume is very short \u2014 may be incomplete."
+    ]
+  },
+  {
+    "timestamp": "2026-04-22 21:36:19",
+    "filename": "critical_complaint.pdf",
+    "doc_type": "\u26a0\ufe0f Complaint",
+    "key_points": [
+      "Subject: Urgent Service Failure",
+      "Submitted By: Aisha Khan"
+    ],
+    "flags": [
+      "\ud83d\udfe1 Warning: Complaint body is very brief."
+    ]
+  },
+  {
+    "timestamp": "2026-04-23 10:44:02",
+    "filename": "risky_invoice.pdf",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: INV999",
+      "Invoice Date: 01/01/2026",
+      "Payment Due: 05/01/2026"
+    ],
+    "flags": [
+      "\ud83d\udfe1 Warning: Missing field: Total Amount"
+    ]
+  },
+  {
+    "timestamp": "2026-04-23 10:45:49",
+    "filename": "risky_invoice.pdf",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: INV999",
+      "Invoice Date: 01/01/2026",
+      "Payment Due: 05/01/2026"
+    ],
+    "flags": [
+      "\ud83d\udfe1 Warning: Missing field: Total Amount"
+    ]
+  },
+  {
+    "timestamp": "2026-04-23 10:50:16",
+    "filename": "sample_invoice.pdf",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: ABC Solutions",
+      "Invoice Number: INV12345",
+      "Invoice Date: 01/04/2026",
+      "Payment Due: 10/04/2026"
+    ],
+    "flags": [
+      "\ud83d\udfe1 Warning: Missing field: Total Amount"
+    ]
+  },
+  {
+    "timestamp": "2026-04-23 11:08:28",
+    "filename": "sample_invoice.pdf",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: ABC Solutions",
+      "Invoice Number: INV12345",
+      "Invoice Date: 01/04/2026",
+      "Payment Due: 10/04/2026",
+      "Total Amount: $550"
+    ],
+    "flags": [
+      "\ud83d\udfe2 OK: All validation checks passed. Document looks complete."
+    ]
+  },
+  {
+    "timestamp": "2026-04-29 09:16:43",
+    "filename": "bad_resume.pdf",
+    "doc_type": "\ud83d\udcc4 Resume",
+    "key_points": [
+      "Candidate Name: Rahul Sharma",
+      "Email: rahul@gmail.com",
+      "Education: Experience: Fresher"
+    ],
+    "flags": [
+      "\ud83d\udfe1 Warning: Resume missing: Technical Skills",
+      "\ud83d\udfe1 Warning: Resume is very short \u2014 may be incomplete."
+    ]
+  },
+  {
+    "timestamp": "2026-04-29 09:19:25",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 704 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-29 09:20:55",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 704 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-29 11:20:24",
+    "filename": "bad_resume.pdf",
+    "doc_type": "\ud83d\udcc4 Resume",
+    "key_points": [
+      "Candidate Name: Rahul Sharma",
+      "Email: rahul@gmail.com",
+      "Education: Experience: Fresher"
+    ],
+    "flags": [
+      "\ud83d\udfe1 Warning: Resume missing: Technical Skills",
+      "\ud83d\udfe1 Warning: Resume is very short \u2014 may be incomplete."
+    ]
+  },
+  {
+    "timestamp": "2026-04-29 11:21:38",
+    "filename": "bad_resume.pdf",
+    "doc_type": "\ud83d\udcc4 Resume",
+    "key_points": [
+      "Candidate Name: Rahul Sharma",
+      "Email: rahul@gmail.com",
+      "Education: Experience: Fresher"
+    ],
+    "flags": [
+      "\ud83d\udfe1 Warning: Resume missing: Technical Skills",
+      "\ud83d\udfe1 Warning: Resume is very short \u2014 may be incomplete."
+    ]
+  },
+  {
+    "timestamp": "2026-04-29 12:01:58",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 704 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-29 12:06:18",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 704 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-29 12:18:48",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 704 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-04-29 12:24:43",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: 12345",
+      "Payment Due: 05/25/2024",
+      "Total Amount: $1,325.00",
+      "Payment Terms: Net 30 days"
+    ],
+    "flags": [
+      "\ud83d\udd34 Critical: Total ($1,325.00) does not match line item sum ($1,700.00).",
+      "\ud83d\udd34 Critical: Invoice OVERDUE by 704 day(s). Due: May 25, 2024"
+    ]
+  },
+  {
+    "timestamp": "2026-05-10 21:04:45",
+    "filename": "bad_resume.pdf",
+    "doc_type": "\ud83d\udcc4 Resume",
+    "key_points": [
+      "Candidate Name: Rahul Sharma",
+      "Email: rahul@gmail.com",
+      "Education: Experience: Fresher"
+    ],
+    "flags": [
+      "\ud83d\udfe1 Warning: Resume missing: Technical Skills",
+      "\ud83d\udfe1 Warning: Resume is very short \u2014 may be incomplete."
+    ]
+  },
+  {
+    "timestamp": "2026-05-10 21:05:08",
+    "filename": "bad_resume.pdf",
+    "doc_type": "\ud83d\udcc4 Resume",
+    "key_points": [
+      "Candidate Name: Rahul Sharma",
+      "Email: rahul@gmail.com",
+      "Education: Experience: Fresher"
+    ],
+    "flags": [
+      "\ud83d\udfe1 Warning: Resume missing: Technical Skills",
+      "\ud83d\udfe1 Warning: Resume is very short \u2014 may be incomplete."
+    ]
+  },
+  {
+    "timestamp": "2026-05-10 21:09:06",
+    "filename": "bad_resume.pdf",
+    "doc_type": "\ud83d\udcc4 Resume",
+    "key_points": [
+      "Candidate Name: Rahul Sharma",
+      "Email: rahul@gmail.com",
+      "Education: Experience: Fresher"
+    ],
+    "flags": [
+      "\ud83d\udfe1 Warning: Resume missing: Technical Skills",
+      "\ud83d\udfe1 Warning: Resume is very short \u2014 may be incomplete."
+    ]
+  },
+  {
+    "timestamp": "2026-05-10 21:28:27",
+    "filename": "risky_invoice.pdf",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor / From: XYZ Corp",
+      "Invoice Number: INV999",
+      "Invoice Date: 01/01/2026",
+      "Payment Due: 05/01/2026",
+      "Total Amount: $400"
+    ],
+    "flags": [
+      "\ud83d\udfe2 OK: All validation checks passed. Document looks complete."
+    ]
+  },
+  {
+    "timestamp": "2026-05-10 21:37:06",
+    "filename": "complaint_sample.pdf",
+    "doc_type": "\u26a0\ufe0f Complaint",
+    "key_points": [
+      "Subject: Complaint regarding poor service",
+      "Core Issue: Complaint Letter"
+    ],
+    "flags": [
+      "\ud83d\udfe2 OK: All validation checks passed. Document looks complete."
+    ]
+  },
+  {
+    "timestamp": "2026-05-10 21:38:39",
+    "filename": "complaint_sample.pdf",
+    "doc_type": "\u26a0\ufe0f Complaint",
+    "key_points": [
+      "Subject: Complaint regarding poor service",
+      "Core Issue: Complaint Letter"
+    ],
+    "flags": [
+      "\ud83d\udfe2 OK: All validation checks passed. Document looks complete."
+    ]
+  }
+]

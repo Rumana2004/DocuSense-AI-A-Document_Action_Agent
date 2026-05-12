@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2026-04-20 16:10:42",
+    "filename": "CS_Resume.pdf",
+    "doc_type": "\ud83d\udcc4 Resume",
+    "key_points": [
+      "Email: rufidarumana3@gmail.com",
+      "Skills: to enhance customer satisfaction. TECHNICAL SKILLS Programming Languages: Python",
+      "Experience: RecruitEase - A University Job Portal Technologies used: Python (Flask), SQLite,",
+      "Education: Ballari Institute of Technology and Management, Ballari BE in Artificial Intelli"
+    ],
+    "anomaly_flags": [
+      "\ud83d\udfe1 Warning: Resume is missing: 'Candidate' section."
+    ]
+  },
+  {
+    "timestamp": "2026-04-20 16:19:10",
+    "filename": "bill_image.png",
+    "doc_type": "\ud83e\uddfe Invoice",
+    "key_points": [
+      "Vendor: XYZ Corporation",
+      "Invoice Number: 12345",
+      "Total Amount: $1,325.00",
+      "Payment Due By: 05/25/2024",
+      "Payment Terms: Net 30 days"
+    ],
+    "anomaly_flags": [
+      "\ud83d\udd34 Critical: Total amount does not match sum of line items \u2014 possible error or fraud.",
+      "\ud83d\udd34 Critical: Invoice is OVERDUE by 695 days! Due: May 25, 2024"
+    ]
+  }
+]
