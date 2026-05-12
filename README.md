@@ -26,8 +26,8 @@ Technologies Used
 
 How to Run
 
-ollama run phi
-streamlit run app.py
+1.ollama run phi
+2.streamlit run app.py
 
 Project Type:
 AI / Agentic AI / Multi-Agent Document Intelligence System
